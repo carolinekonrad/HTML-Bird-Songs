@@ -41,3 +41,7 @@ nav a:hover {
 main {
     margin: 0 10%;
 }
+
+h1 {
+    text-align: center;
+}
